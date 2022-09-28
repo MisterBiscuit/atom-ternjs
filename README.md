@@ -1,4 +1,5 @@
-# atom-ternjs
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # atom-ternjs
 
 > JavaScript code intelligence for atom with [Tern](https://github.com/ternjs/tern).
 Adds support for ES5, ES6, ES7, Node.js, jQuery, Angular and more. Extendable via plugins.
